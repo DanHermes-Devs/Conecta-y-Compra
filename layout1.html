@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Conecta y Compra</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<style>
+html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{font-family: 'Open Sans', sans-serif; overflow-x:hidden;}
+.navbar-inverse {
+ background-color: #fff;
+     border-color: transparent;
+	 min-height: 100px;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #da4536;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle {
+    background-color: #da4536 !important;
+border: none;
+}
+toggle {
+    background-color: #da4536;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #da4536;
+}
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.glyphicon-chevron-right:before, .glyphicon-chevron-left:before {
+    color: #f0f0f0;
+    content: ">";
+    font-weight: lighter;
+    font-family: 'Poppins', sans-serif;
+	font-size: 2em;
+}
+
+.footmenu{width:20%; float:left;}
+
+.cuenta-icon{width:30px; float: left; height:30px; background-image:url("img/user.png"); background-size:100%; background-repeat:no-repeat; margin-top:-8px;}
+
+.wish-icon{width:30px; float: left; height:30px; background-image:url("img/wish.png"); background-size:100%; background-repeat:no-repeat; margin-top:-8px;}
+
+.cart-icon{
+width: 45px;
+float: left;
+height: 30px;
+background-image: url("img/cart.png");
+background-size: 100%;
+background-repeat: no-repeat;
+margin-top: -15px;}
+
+.navbar-form {
+    padding: 3px 8px;
+ 
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    max-height: 330px;
+}
+
+
+.glyphicon-chevron-left:before {
+
+    content:  "\3C";
+  
+}
+.navbar-nav > li {
+    float: left;
+    padding: 0 10px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #222;
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+font-weight: 200;
+text-transform: uppercase;
+padding: 10px 0 2px 0;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #888;
+    background-color: transparent;
+}
+img.logocyc {
+    width: 50px;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+    bottom: 0;
+    margin-top: 5px;
+	padding-left: 20px;
+}
+.carousel {
+position: relative;
+margin-top: 0;
+width: 100%;
+float: left;
+margin-bottom: 15px;
+}
+.categorias {
+   position: relative;
+margin-top: 125px;
+width: 15%;
+float: left;
+}
+.categorias h2 {
+    background-color: #d9dadc;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0;
+}
+.footmenu{padding:10px;}
+.footmenu h2 {
+    color: #547dbf;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 10px 5px 10px;
+margin: 10px 0 0 0;
+}
+
+.footmenu li a {
+    text-decoration: none;
+    color: #222;
+    font-size: 11px;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+    line-height: 1;
+    width: 100%;
+}
+
+
+
+.footmenu li {
+    list-style:none;
+}
+.vertodas{
+
+    color: #333;
+    font-size: 11px;
+    padding: 0;
+	padding-left:15px;
+    margin: 0;
+    line-height: 1.5;
+    text-decoration: none;
+}
+.listado-cats a {color:#333;}
+.listado-cats li{width:100%; color: #333; font-size:12px; list-style:none; }
+ul.miniul {
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 0;
+    font-size: 12px;
+
+}
+
+.item a{
+    color: #fff;
+   }
+.miniul li {
+    color: #fff;
+    float: left;
+    padding: 0 10px;
+    list-style: none;
+}
+.miniul li a {
+    color: #fff;
+ 
+}
+img.cartimg {
+    width: 30px;
+    margin-top: -5px;
+}
+
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
+    color: #333;
+    background-color: #ffbb57;
+    border-color: #ffbb57;
+}
+.btn-default{
+
+    color: #333;
+    background-color: #ffbb57;;
+    border-color: #;
+}
+img.avatar {
+    width: 35px;
+}
+a.amicuenta {
+    color: #333;
+    font-size: 13px;
+    text-align: left;
+    float: right;
+    padding: 0%;
+    text-decoration: none;
+    line-height: 1;
+    width: 120px;
+}
+.fourprods .col-md-3 {
+    padding: 0;
+}
+.fourprods .col-sm-3 img {
+ padding-top: 0px;
+ padding-bottom: 15px;
+  padding-right: 15px;
+}
+
+@media (max-width:700px){
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 5px;
+
+}
+img.logocyc {
+    width: 70px;
+}
+
+.carousel {
+    position: relative;
+    margin-top: 100px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: transparent;
+}
+.search-container {
+    float: none;
+	    width: 90%;
+}
+.input-group {
+
+    width: 100%;
+}
+
+a.amicuenta {
+    float: left;
+
+    width: 100%;
+}
+
+.avatarcont {
+    text-align: right;
+    padding: 0;
+    width: 10%;
+    float: left;
+    min-width: 35px;
+}
+
+.myacont {
+    width: 80%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.navbar-nav {
+
+    margin-top: 10px;
+}
+
+.pagecont {
+    width: 100%;
+    padding: 15px!important;
+	margin: 0;
+}
+
+.buttoncont {
+    background-color: #d9dadc;
+    padding: 6% 5%;
+    min-height: auto!important;
+    margin-bottom: 15px;
+}
+
+.bannercont{
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.pagecont img {
+    width: 100%;
+    padding: 0!important;
+	margin-bottom:15px;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #aaa;
+}
+.navbar-toggle {
+
+    margin-top: 15px;
+
+}
+}
+
+.listado-footmenu {
+    padding: 0 15px!important;
+}
+
+.h1-slide {
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    font-size: 3em;
+	padding: 0 15px;
+	margin: 0;
+}
+
+.h2-slide {
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.8em;
+	padding: 30px 15px;
+	margin: 0;
+}
+
+.p-slide {
+    
+    color: #fff;
+    font-weight: 200;
+    font-size: 1.1em;
+	padding: 0 15px;
+	margin: 0;
+	text-align:left;
+}
+
+.h4-slide {
+    text-align: center;
+    color: #fff;
+    font-weight: 200;
+    font-size: 1.5em;
+	text-transform:uppercase;
+	padding: 15px 15px 0 15px;
+	margin: 15px 15px 0 15px;
+}
+
+.number-slide {
+    display: inline-block;
+    
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    background: transparent;
+    border: 1px solid red;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 1.5em;
+	line-height: 1.8;
+}
+
+.number-slide.activenumber {
+    background: #ffbb57;
+ 
+}
+.numbers-wrap {
+    position: relative;
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    padding: 5px;
+}
+
+ul.listado-cats.desktop {
+    padding: 10px 20px;
+}
+
+
+
+.cat-icon{display: inline-block; width:26px; height:24px; background-size:100%; background-repeat:no-repeat; }
+.listado-cats  span{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    margin-top: 4px;
+}
+.mujer-icon{background-image:url("img/categorias-icons/mujer-icon.jpg"); }
+.hombre-icon{background-image:url("img/categorias-icons/hombre-icon.jpg"); }
+.ninos-icon{background-image:url("img/categorias-icons/ninos-icon.jpg"); }
+.telefonia-icon{background-image:url("img/categorias-icons/telefonia-icon.jpg"); }
+.informatica-icon{background-image:url("img/categorias-icons/informatica-icon.jpg"); }
+.electronica-icon{background-image:url("img/categorias-icons/electronica-icon.jpg"); }
+.joyeria-icon{background-image:url("img/categorias-icons/joyeria-icon.jpg"); }
+.casa-icon{background-image:url("img/categorias-icons/casa-icon.jpg"); }
+.deportes-icon{background-image:url("img/categorias-icons/deportes-icon.jpg"); }
+.salud-icon{background-image:url("img/categorias-icons/salud-icon.jpg"); }
+
+.btn-default {
+    border: none;
+}
+
+.redbutton a{color:#fff;}
+
+.nav li:last-child { float:right; margin-top: 13px;}
+.navbar-nav {
+    width: 90%;
+}
+
+.navbar-brand {
+    padding: 10px 15px;
+}
+.navbar-inverse .navbar-nav > li > a {
+    float: left;
+}
+.carousel-indicators {
+    position: relative;
+    bottom: 0px!important;
+    padding: 10px;
+}
+
+
+.desktop{display:block;}
+.mobile{display:none;}
+
+
+@media (max-width:800px){
+.desktop{display:none;}
+.mobile{display:block;}
+.categorias {
+    width: 100%;
+
+}
+
+.carousel {
+    position: relative;
+    margin-top: 10px;
+    width: 100%;
+}
+.buttoncont{width:100%;}
+.pagecont img {
+    width: 50%;
+    padding: 0 !important;
+    margin-bottom: 15px;
+}
+.footmenu {
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+#Banner2 .carousel-inner {
+    padding: 15px 0!important;
+}
+.h4-slide {
+    font-size: 1em;
+
+}
+.h1-slide {
+
+    font-size: 1.5em;
+}
+.h2-slide {
+    font-size: 1.2em;
+}
+.p-slide {
+    font-size: .85em;
+    padding: 0px 5px;
+
+}
+.pagecont {
+    padding: 0px !important;
+}
+.carousel-inner {
+    max-height:800px!important;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+    object-fit: cover;
+    height: 150px;
+}
+.categorias {
+    margin-top: 70px;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle {
+    background-color: #333;
+}
+
+.navbar-nav > li {
+    float: none;
+    padding: 0 10px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+.navbar-inverse .navbar-nav > li > a {
+    float: left;
+    width: 100%;
+    padding: 8px 10px;
+}
+}
+
+.card-grid .front, .card-grid .back {
+    padding: 10px;
+    text-align: center;
+    border: 1px #333 solid;
+}
+.card-grid .back {
+    background-color: #333;
+    color: white;
+}
+
+.back {
+    color: #333;
+    background: #f0f0f0;
+    padding: 40px 30px;
+}
+.back h2 {
+    font-size: 20px;
+}
+
+.mainnav {
+    padding: 0 15%;
+}
+
+.btn {
+    padding: 7px 12px;
+    font-size: 12px;
+
+}
+
+.containerprods {
+    padding: 0 10%;
+}
+
+@media (max-width:700px){
+
+.pagecont img {
+    width: 100%;
+}
+
+.destcont .col-sm-12{padding:0;}
+.prodcont {
+    text-align: center;
+}
+
+.mainnav {
+    padding: 0 1%;
+}
+
+.menu-tienda li {
+    list-style: none;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 20px;
+    width: 100%;
+}
+
+.input-group {
+    position: relative;
+    display: inline-block;
+	}
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+
+    width: 50%;
+}
+
+.navbar-header {
+    width: 100%;
+}
+
+.nav li:last-child {
+    padding: 10px 0px 15px 0;
+}
+
+.logo-tienda{padding:0 10%; max-width: 70%;max-width: 70%;}
+.mini-nav {
+    min-height: 10px!important;
+
+}
+.navbar-inverse {
+    min-height: 80px;
+}
+}
+</style>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	 <div class="mini-nav"style="min-height:20px;background-color:#ffbb56; text-align:right;     padding: 0 5%;">
+	 
+	 </div>
+        <div class="container mainnav" style="width:100%;">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.php"><img src="img/logo_cyc.png" class="logocyc"></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		
+                <ul class="nav navbar-nav">
+				<div class="search-container">
+			 
+        <form class="navbar-form" role="search">
+        <div class="input-group" style="min-width: 27vw;">
+            <input type="text" class="form-control"  name="q" placeholder="Estoy buscando...">
+            <div class="input-group-btn">
+                <button class="btn btn-default" type="submit" style="border:1px solid #ffbb56;">En conecta y compra</button>
+				<button class="btn btn-default" type="submit" style="background-color:#fff; border:1px solid #ffbb56;">En esta tienda</button>
+            </div>
+        </div>
+		<li>
+                        <a href="#"  style="font-weight:600; float: left; color: #222;"><div class="cuenta-icon"></div><span>TU CUENTA </a>
+						 <a href="#" style="font-weight:600; float: left; color: #222;"><div class="wish-icon"></div><span>WISH LIST </a>
+						 <a href="#"><div class="cart-icon"></div><span> </a>
+                    </li>
+        </form>
+		
+		
+	
+
+			</div>
+                    
+					
+					
+					
+                </ul>
+				
+            </div>
+			
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+	
+	 
+
+
+          
+              
+
+      <!--/Slider-->
+<style class="cp-pen-styles">
+.carousel-indicators-numbers li {
+  text-indent: 0;
+  border-radius: 100%;
+  color: #fff;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+    margin: 0 5px;
+    width: 40px;
+    height: 40px;
+        font-size: 1.4em;
+    line-height: 1.7;
+    font-weight: 600;
+    background-color: transparent;
+    border: 1.5px solid #ed304c;
+}
+.carousel-indicators .active {
+    width: 40px;
+    height: 40px;
+	margin: 0 5px;
+}
+.activenum{background-color: #ffbb57!important;}
+
+.bagimg{width:20%; float:left; padding:20px;  max-height: 300px;}
+.bagimg img{width:100%; padding:0px;}
+
+.menu-tienda{
+list-style:none;
+color:#fff;
+padding: 0;
+margin: 0;
+
+}
+
+.menu-tienda li{
+list-style:none;
+color:#fff;
+display:inline-block;
+padding:0 20px;
+}
+
+.menu-tienda li a{
+list-style:none;
+color:#fff;
+
+}
+
+.h1-tienda{color:#f5b417; font-weight:600; text-align:center; padding:20px 0 0 0; margin:0; font-size:2em;}
+.h3-tienda{color:#ffbb56;text-align:center; padding:0; margin:0; font-size:1.3em;}
+.imgdest{
+max-width: 100%;
+padding: 7.5px 0;
+}
+
+.destcont {
+    padding: 10px 0;
+	
+}
+.prodsection{margin-bottom:50px;}
+.imgprod {
+    width: 100%;
+    padding: 20px;
+	transition: 1s ease all;
+}
+
+.imgprod:hover{opacity:.5; transition: 1s ease all;}
+.prod-desc{
+padding: 0 10px;
+margin: 2px 0;
+color: #222;
+font-size: 13px;
+}
+.precio{color:#da4536; font-weight:600; font-size:1.6em;padding: 0 10px;
+margin: 2px 0;}
+
+@media (max-width:800px){
+.bagimg{width:50%; float:left;}
+}
+
+@media (max-width:500px){
+.bagimg{width:100%; float:left;}
+}
+</style>
+
+
+	
+	<div style="width:100%; background-color:#547dbf; float: left; padding:10px 30px; display:none;">
+	<ul class="menu-tienda" style="text-align:center;">
+                    <li>
+                        <a href="#">TIENDA</a>
+                    </li>
+                    <li>
+                        <a href="#">PRODUCTOS</a>
+                    </li>
+					<li>
+                        <a href="#">OFERTAS</a>
+                    </li>
+					<li>
+                        <a href="#">RECOMENDADOS</a>
+                    </li>
+                   
+					
+        </ul>
+	</div>
+	
+	<div id="carousel-bounding-box">
+                  <div class="carousel slide" id="tiendaBanner">
+                      <!-- Carousel items -->
+                      
+					  <div class="carousel-inner">
+                          <div class="active item" data-slide-number="0">
+                          <img src="img/tienda/banner-tienda.jpg"></div>
+
+                          <div class="item" data-slide-number="1">
+                          <img src="img/tienda/banner-tienda.jpg"></div>
+
+                        
+
+
+                      </div>
+					  
+					  <!-- Carousel nav -->
+                        <a class="left carousel-control" href="#tiendaBanner" role="button" data-slide="prev">
+                          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#tiendaBanner" role="button" data-slide="next">
+                          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                      </a>
+                  </div>
+              </div>
+			  
+			  <div class="container pagecont" style="width: 100%;
+           padding: 0px 15px;
+margin-top: 100px;">
+ <div class="logov2" style="padding:0; text-align: center;">
+		   <img class="logo-tienda" src="img/tienda/logo-tienda.png" style="width:100%; max-width:350px; padding:10px;">
+		   </div> 
+	   
+           <div class="col-sm-12 col-md-12" style="padding:20px; display:none;">
+		   
+		   <h3 class="h3-tienda">LOREM IPSUM DOLOR</h3>
+		   <h1 class="h1-tienda">LOREM IPSUM DOLOR</h1>
+		   
+	
+		</div>
+		
+		<div class="col-sm-12 col-md-12" style="padding:0;">
+		   
+		   <div class="col-sm-4 col-md-4 destcont" >
+		   
+		   <img class="imgdest" src="img/tienda/dest-1.jpg">
+		   
+		   </div>
+		   
+		   <div class="col-sm-4 col-md-4 destcont">
+		    <div class="col-sm-12 col-md-12">
+			<img class="imgdest" src="img/tienda/dest-2.jpg">
+		   
+		   </div>
+		    <div class="col-sm-12 col-md-12" >
+			<img class="imgdest" src="img/tienda/dest-3.jpg">
+		   
+		   </div>
+		   
+		   </div>
+
+		   <div class="col-sm-4 col-md-4 destcont">
+		   <img class="imgdest" src="img/tienda/dest-4.jpg">
+		   
+		   </div>
+		   
+	
+		</div>
+		
+		<div class="row prodsection">
+		
+		<div class="col-sm-12 col-md-12 containerprods">
+		   
+		   <h3 class="h3-tienda hidden">NUEVOS</h3>
+		   <h1 class="h1-tienda">PRODUCTOS</h1>
+		   
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" > 
+		   <img class="imgprod" src="img/tienda/prod1.jpg">
+		   <p class="prod-desc">Global Versión Xiaomi mi A1 MiA1 4 GB RAM 64 GB ROM </h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+
+
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/prod2.jpg">
+		   <p class="prod-desc">Original Xiaomi Redmi Nota 4X4 GB RAM 64 GB ROM Teléfono</h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+		   
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/prod3.jpg">
+		   <p class="prod-desc">ROM Original Xiaomi Redmi mundial 4A 4 2 GB RAM 16 GB</h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+		   
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/prod4.jpg">
+		   <p class="prod-desc">Original Xiaomi Redmi 4 Teléfono Móvil Snapdragon 430</h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+		   
+	
+		</div>
+		
+		<div class="col-sm-12 col-md-12 containerprods" >
+		   
+		   <h3 class="h3-tienda hidden">PRODUCTOS</h3>
+		   <h1 class="h1-tienda hidden">REBAJADOS</h1>
+		   
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/rebajado1.jpg">
+		   <p class="prod-desc">Global Versión Xiaomi mi A1 MiA1 4 GB RAM 64 GB ROM  </h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+
+
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/rebajado2.jpg">
+		   <p class="prod-desc">Original Xiaomi Redmi Nota 4X4 GB RAM 64 GB ROM Teléfono</h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+		   
+		   <a href="producto.html">
+		   <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/rebajado3.jpg">
+		   <p class="prod-desc">ROM Original Xiaomi Redmi mundial 4A 4 2 GB RAM 16 GB</h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+		   
+		   <a href="producto.html">		  
+		  <div class="col-sm-3 col-md-3 prodcont" >
+		   <img class="imgprod" src="img/tienda/rebajado4.jpg">
+		   <p class="prod-desc">Original Xiaomi Redmi 4 Teléfono Móvil Snapdragon 430</h3>
+		   <h4 class="precio">$0.00 MXN</h4>
+		   </div>
+		   </a>
+		   
+	
+		</div>
+		
+		</div>
+	</div>
+	
+	
+    <!-- /.container -->
+
+		<div style="width:100%; float:left; text-align:center; background:#179e59; padding:40px;">
+		<p style="font-size:12px; color: #fff;">Conecta y Compra ©  Copyright 2017. All rights reserved.</p>
+		
+		</div>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+	<script src="https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+	
+<script >
+	
+	if (screen.width < 700) {
+    var $wHeight = 150;
+}
+else {
+
+    var $wHeight = 300;
+}
+jQuery(document).ready(function($) {
+
+    
+    $('#tiendaBanner').carousel({
+            interval: 3000
+    });
+
+    $('#carousel-text').html($('#slide-content-0').html());
+
+});
+
+
+
+function c2goToSlide(number) {
+   $("#tiendaBanner").carousel(number);
+}
+</script>
+
+	
+
+</body>
+
+</html>

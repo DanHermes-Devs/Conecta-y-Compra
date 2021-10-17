@@ -1,0 +1,7 @@
+[28-Nov-2017 20:58:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/digout/public_html/cyc/recupera/index.php on line 3
+[28-Nov-2017 20:58:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/digout/public_html/cyc/recupera/index.php on line 20
+[28-Nov-2017 20:58:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/digout/public_html/cyc/recupera/index.php on line 21
+[28-Nov-2017 20:59:32 UTC] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/recupera/forgot-password-recovery-mail.php on line 3
+[28-Nov-2017 20:59:32 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/cyc/recupera/forgot-password-recovery-mail.php on line 3
+[28-Nov-2017 20:59:38 UTC] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/recupera/forgot-password-recovery-mail.php on line 3
+[28-Nov-2017 20:59:38 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/cyc/recupera/forgot-password-recovery-mail.php on line 3

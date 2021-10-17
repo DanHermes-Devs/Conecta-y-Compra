@@ -1,0 +1,32 @@
+[20-Jun-2019 17:32:11 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:32:11 UTC] PHP Warning:  include(http://digitaltryout.com/cyc/dbconnect.php): failed to open stream: no suitable wrapper could be found in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:32:11 UTC] PHP Warning:  include(): Failed opening 'http://digitaltryout.com/cyc/dbconnect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:32:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:32:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'digout'@'localhost' (using password: NO) in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:32:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:32:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/digout/public_html/cyc/include/header.php on line 6
+[20-Jun-2019 17:32:11 UTC] PHP Notice:  Undefined offset: 0 in /home/digout/public_html/cyc/include/header.php on line 944
+[20-Jun-2019 17:33:02 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:02 UTC] PHP Warning:  include(http://digitaltryout.com/cyc/dbconnect.php): failed to open stream: no suitable wrapper could be found in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:02 UTC] PHP Warning:  include(): Failed opening 'http://digitaltryout.com/cyc/dbconnect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:02 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:02 UTC] PHP Warning:  mysql_query(): Access denied for user 'digout'@'localhost' (using password: NO) in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/digout/public_html/cyc/include/header.php on line 6
+[20-Jun-2019 17:33:02 UTC] PHP Notice:  Undefined offset: 0 in /home/digout/public_html/cyc/include/header.php on line 944
+[20-Jun-2019 17:33:04 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:04 UTC] PHP Warning:  include(http://digitaltryout.com/cyc/dbconnect.php): failed to open stream: no suitable wrapper could be found in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:04 UTC] PHP Warning:  include(): Failed opening 'http://digitaltryout.com/cyc/dbconnect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:04 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'digout'@'localhost' (using password: NO) in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/digout/public_html/cyc/include/header.php on line 6
+[20-Jun-2019 17:33:04 UTC] PHP Notice:  Undefined offset: 0 in /home/digout/public_html/cyc/include/header.php on line 944
+[20-Jun-2019 17:33:17 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:17 UTC] PHP Warning:  include(http://digitaltryout.com/cyc/dbconnect.php): failed to open stream: no suitable wrapper could be found in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:17 UTC] PHP Warning:  include(): Failed opening 'http://digitaltryout.com/cyc/dbconnect.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digout/public_html/cyc/include/header.php on line 3
+[20-Jun-2019 17:33:17 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:17 UTC] PHP Warning:  mysql_query(): Access denied for user 'digout'@'localhost' (using password: NO) in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/digout/public_html/cyc/include/header.php on line 5
+[20-Jun-2019 17:33:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/digout/public_html/cyc/include/header.php on line 6
+[20-Jun-2019 17:33:17 UTC] PHP Notice:  Undefined offset: 0 in /home/digout/public_html/cyc/include/header.php on line 944

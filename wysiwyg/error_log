@@ -1,0 +1,10 @@
+[24-Jun-2019 22:17:09 UTC] PHP Parse error:  syntax error, unexpected '$resumen' (T_VARIABLE) in /home/digout/public_html/cyc/wysiwyg/save_resumen.php on line 16
+[24-Jun-2019 22:17:17 UTC] PHP Parse error:  syntax error, unexpected '$resumen' (T_VARIABLE) in /home/digout/public_html/cyc/wysiwyg/save_resumen.php on line 16
+[13-Jan-2021 21:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/digout/public_html/cyc/wysiwyg/desc_prod.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/digout/public_html/cyc/wysiwyg/desc_prod.php on line 13
+[13-Jan-2021 21:02:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/digout/public_html/cyc/wysiwyg/desc_prod.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/digout/public_html/cyc/wysiwyg/desc_prod.php on line 13

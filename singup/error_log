@@ -1,0 +1,21 @@
+[28-Nov-2017 22:21:29 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php:820
+Stack trace:
+#0 /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Tue, 28 N...', '--b1_e895cb3dde...')
+#2 /home/digout/public_html/cyc/singup/class.user.php(128): PHPMailer->Send()
+#3 /home/digout/public_html/cyc/singup/signup.php(53): USER->send_mail('odnam93@gmail.c...', '\t\t\t\t\t\r\n\t\t\t\t\t\tHe...', 'Confirm Registr...')
+#4 {main}
+  thrown in /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php on line 820
+[28-Nov-2017 22:23:49 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php:820
+Stack trace:
+#0 /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Tue, 28 N...', '--b1_2d53333a6e...')
+#2 /home/digout/public_html/cyc/singup/class.user.php(128): PHPMailer->Send()
+#3 /home/digout/public_html/cyc/singup/signup.php(53): USER->send_mail('odnam93@gmail.c...', '\t\t\t\t\t\r\n\t\t\t\t\t\tHe...', 'Confirm Registr...')
+#4 {main}
+  thrown in /home/digout/public_html/cyc/singup/mailer/class.phpmailer.php on line 820
+[28-Nov-2017 22:45:55 UTC] PHP Notice:  Undefined variable: WWiFx in /home/digout/public_html/cyc/singup/class.user.php on line 125
+[28-Nov-2017 22:47:27 UTC] PHP Notice:  Undefined variable: WWiFx in /home/digout/public_html/cyc/singup/class.user.php on line 123
+[28-Nov-2017 22:48:35 UTC] PHP Fatal error:  Class 'USER' not found in /home/digout/public_html/cyc/singup/signup.php on line 5
+[28-Nov-2017 22:48:37 UTC] PHP Fatal error:  Class 'USER' not found in /home/digout/public_html/cyc/singup/signup.php on line 5
+[28-Nov-2017 22:48:39 UTC] PHP Fatal error:  Class 'USER' not found in /home/digout/public_html/cyc/singup/signup.php on line 5

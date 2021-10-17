@@ -1,0 +1,13 @@
+[28-Nov-2017 22:53:20 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1204
+[28-Nov-2017 22:53:20 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1208
+[28-Nov-2017 22:53:20 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1204
+[28-Nov-2017 22:53:20 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1208
+[28-Nov-2017 22:53:20 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 591
+[28-Nov-2017 22:53:22 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://smtp.gmail.com:465 (Connection refused) in /home/digout/public_html/cyc/singup/phpmailer/class.smtp.php on line 122
+[28-Nov-2017 23:17:01 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1204
+[28-Nov-2017 23:17:01 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1208
+[28-Nov-2017 23:17:01 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1204
+[28-Nov-2017 23:17:01 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 1208
+[28-Nov-2017 23:17:01 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/digout/public_html/cyc/singup/phpmailer/class.phpmailer.php on line 591
+[28-Nov-2017 23:17:01 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/digout/public_html/cyc/singup/phpmailer/class.smtp.php on line 122
+[28-Nov-2017 23:17:01 UTC] PHP Warning:  fsockopen(): unable to connect to tls://tls://smtp.gmail.com:587 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/digout/public_html/cyc/singup/phpmailer/class.smtp.php on line 122

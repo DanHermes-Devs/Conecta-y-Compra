@@ -1,0 +1,216 @@
+body{
+	background-image:url("../images/bkg_body.jpg");
+	background-attachment:fixed;
+	background-repeat:repeat;
+	padding:0;
+	margin:0 auto;
+	width: 950px;
+}
+
+#cabecera{
+	background: #333333;
+	padding:10px;
+	text-align: center;
+	border-radius:5px;
+}
+	#cabecera h1{
+		font-family: 'Aclonica', serif;
+		color: #222;
+		text-shadow: 0px 1px 1px #4d4d4d;
+		text-transform:uppercase;
+	}
+
+
+/* Divs Contend */
+#contenedor{
+	/*background-color:#A9E2F3;*/
+	width:100%;
+	border-radius:10px;
+	margin:50px auto;
+}
+#nuevaimagen{
+	background-color: #707070;
+    color: #000;
+    font-family: Arial;
+    padding-bottom: 5px;
+}
+#listadoimagenes{
+	margin-top:20px;
+}
+#mensajevacio{
+	background: #084B8A url(../images/warning_32x32.png)no-repeat;
+	padding:10px;
+	color:#fff;
+	text-align: center;
+	width:300px;
+	border-radius:5px;
+	font-family: Arial;
+}
+/* //Divs Contend */
+
+
+/* Tabla de lista de archivos */
+.demoTable{
+	border-spacing:1px;
+	font-family:Verdana;
+	font-size:10px;
+	background-color:#C3E6FF;
+	color: #b7b7b7;
+	width:100%;
+	margin:auto;
+}
+
+.demoTable td, .demoTable tr, .demoTable th{
+	border-collapse: separate;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.demoTable caption {
+	background: #333333;
+	padding:5px;
+	color: #222;
+	text-align: center;
+	text-shadow: 0px 1px 1px #4d4d4d;
+	text-transform:uppercase;
+	font-family: Arial;
+	font-size: 24px;
+}
+
+.demoTable td, .demoTable th {
+	padding: 4px;
+}
+
+.demoTable thead th {
+	text-align: center;
+	background: #C3E6FF;
+	color: #0B173B;
+	border: 1px solid #C3E6FF;
+	text-transform:uppercase;
+}
+
+.demoTable tr:hover{
+	background:#C3E6FF;
+}
+
+.demoTable tbody tr {
+	background-color:#C3E6FF;
+	color: #0B173B;
+	text-align:left;
+}
+
+.demoTable tbody tr th {
+	background-color:#C3E6FF;
+	color: #2E2E2E;
+	text-align:left;
+}
+
+.demoTable tbody tr.odd {
+	background: #f9f9f9;
+	border-top:1px solid #FFF;
+}
+
+/*.demoTable tbody tr:hover {
+background: red;
+border-top:1px solid #FFF;
+}*/
+
+.demoTable tbody tr:hover{
+	background: #fff;
+	color:#000;
+}
+
+.demoTable tbody tr {
+	height:50px;
+	background: #FAFAFA;
+	border: 1px solid #FFF;
+}
+
+.demoTable tbody tr.odd td{
+	background: #f9f9f9;
+	border-top:1px solid #FFF;
+}
+
+.demoTable td a:link, .demoTable td a:visited {
+	color: #0B3861;
+	text-decoration: none;
+}
+
+.demoTable td a:hover {
+	color: #0B3861;
+	border-bottom:2px solid #8FD5FF;
+	text-decoration: none ;
+}
+
+.demoTable tfoot th, .demoTable tfoot td {
+	background-color:#fff; padding:10px;
+	text-align:center;
+	font-family:Georgia;
+	font-size:22px; font-weight:bold; font-style:italic;
+	border-bottom:3px solid #CCC;
+	border-top:1px solid #DFDFDF;
+}
+
+/* //Tabla de lista de archivos */
+
+.formulario-title{
+	background: #333333;
+	padding:5px;
+	color: #222;
+	text-align: center;
+	text-shadow: 0px 1px 1px #4d4d4d;
+	text-transform:uppercase;
+	border-radius:1px 1px 0px 0px;
+	font-family: Arial;
+	font-size: 24px;
+}
+
+
+/* Forms Inputs, texarea */
+.cajas{
+	background:#FFF;
+	border:1px solid #00BFFF;
+	height: 30px;
+	margin-left:20px;
+	margin-right:20px;
+	border-radius:5px;
+}
+textarea:focus {
+    /*-webkit-box-shadow: 0 0 5px 3px GRAY;
+    -moz-box-shadow: 0 0 5px 3px GRAY;*/
+    box-shadow: 0 0 5px 3px LIME;
+}
+.button {
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+
+
+

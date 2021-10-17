@@ -1,0 +1,311 @@
+[07-Jun-2021 09:01:42 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:01:42 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:01:48 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:01:48 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:01:49 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:01:49 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:06 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:06 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:07 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:07 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:07 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:07 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:08 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:08 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:08 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:08 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:08 UTC] PHP Warning:  require(includes/config/database.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/index.php on line 3
+[07-Jun-2021 09:03:08 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config/database.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/index.php on line 3
+[11-Oct-2021 23:01:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 55
+[11-Oct-2021 23:53:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 55
+[12-Oct-2021 15:01:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 55
+[12-Oct-2021 15:01:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 55
+[12-Oct-2021 15:01:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:02:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:06:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:07:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:13:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:13:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:13:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 58
+[12-Oct-2021 15:15:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 59
+[12-Oct-2021 15:15:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 59
+[12-Oct-2021 15:16:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 59
+[12-Oct-2021 16:26:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 59
+[12-Oct-2021 16:27:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/ordenes.php on line 59
+[12-Oct-2021 16:35:39 UTC] PHP Notice:  Undefined index: id in /home/digout/public_html/cyc/admin/ordenes.php on line 62
+[12-Oct-2021 16:35:39 UTC] PHP Notice:  Undefined index: name in /home/digout/public_html/cyc/admin/ordenes.php on line 63
+[12-Oct-2021 16:35:39 UTC] PHP Notice:  Undefined index: address in /home/digout/public_html/cyc/admin/ordenes.php on line 64
+[12-Oct-2021 16:35:39 UTC] PHP Notice:  Undefined index: total_price in /home/digout/public_html/cyc/admin/ordenes.php on line 65
+[12-Oct-2021 16:35:39 UTC] PHP Notice:  Undefined index: total_price in /home/digout/public_html/cyc/admin/ordenes.php on line 66
+[12-Oct-2021 16:35:39 UTC] PHP Notice:  Undefined index: total_price in /home/digout/public_html/cyc/admin/ordenes.php on line 67
+[12-Oct-2021 16:36:20 UTC] PHP Notice:  Undefined index: id in /home/digout/public_html/cyc/admin/ordenes.php on line 62
+[12-Oct-2021 16:36:20 UTC] PHP Notice:  Undefined index: name in /home/digout/public_html/cyc/admin/ordenes.php on line 63
+[12-Oct-2021 16:36:20 UTC] PHP Notice:  Undefined index: address in /home/digout/public_html/cyc/admin/ordenes.php on line 64
+[12-Oct-2021 16:36:20 UTC] PHP Notice:  Undefined index: total_price in /home/digout/public_html/cyc/admin/ordenes.php on line 65
+[12-Oct-2021 16:36:20 UTC] PHP Notice:  Undefined index: total_price in /home/digout/public_html/cyc/admin/ordenes.php on line 66
+[12-Oct-2021 16:36:20 UTC] PHP Notice:  Undefined index: total_price in /home/digout/public_html/cyc/admin/ordenes.php on line 67
+[12-Oct-2021 16:41:54 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:42:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/digout/public_html/cyc/admin/getPedidos.php on line 12
+[12-Oct-2021 16:42:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/digout/public_html/cyc/admin/getPedidos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:42:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/digout/public_html/cyc/admin/getPedidos.php on line 12
+[12-Oct-2021 16:42:11 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/digout/public_html/cyc/admin/getPedidos.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:43:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/digout/public_html/cyc/admin/getPedidos.php on line 14
+[12-Oct-2021 16:43:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/digout/public_html/cyc/admin/getPedidos.php on line 14
+[12-Oct-2021 16:43:30 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 12
+[12-Oct-2021 16:43:30 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 12
+[12-Oct-2021 16:44:08 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:08 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:08 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:08 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:08 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:08 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:09 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:09 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:09 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:10 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:21 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:21 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:53 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:53 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:54 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:54 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:55 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:55 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:55 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:55 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:55 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:55 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:56 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:44:56 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:46:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/digout/public_html/cyc/admin/getPedidos.php on line 13
+[12-Oct-2021 16:46:12 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/digout/public_html/cyc/admin/getPedidos.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/digout/public_html/cyc/admin/getPedidos.php on line 14
+[12-Oct-2021 16:46:33 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[12-Oct-2021 16:47:08 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:47:09 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:47:21 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:47:21 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:47:22 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:47:22 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:22 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:22 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:23 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:23 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:34 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:34 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:46 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:46 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:47 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:47 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:48 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:48:48 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:49:00 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:49:00 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:49:01 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:49:01 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 17
+[12-Oct-2021 16:49:20 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:20 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:48 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:48 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:48 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:48 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:49 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:49 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:49:50 UTC] PHP Warning:  json_encode() expects parameter 2 to be integer, string given in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:50:00 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:50:01 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 18
+[12-Oct-2021 16:50:16 UTC] PHP Warning:  Use of undefined constant JSON_UNSCAPED_UNICODE - assumed 'JSON_UNSCAPED_UNICODE' (this will throw an Error in a future version of PHP) in /home/digout/public_html/cyc/admin/getPedidos.php on line 16
+[13-Oct-2021 13:23:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/digout/public_html/cyc/admin/dbconnect.php on line 3
+[13-Oct-2021 13:23:58 UTC] PHP Warning:  require_once(include/header.php): failed to open stream: No such file or directory in /home/digout/public_html/cyc/admin/pedidos.php on line 11
+[13-Oct-2021 13:23:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/digout/public_html/cyc/admin/pedidos.php on line 11
+[13-Oct-2021 13:52:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/digout/public_html/cyc/admin/pedidos.php on line 51
+[13-Oct-2021 13:52:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/digout/public_html/cyc/admin/pedidos.php on line 51
+[13-Oct-2021 14:05:19 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:05:22 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:05:38 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:05:38 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 54
+[13-Oct-2021 14:05:39 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:05:39 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 54
+[13-Oct-2021 14:06:07 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:06:07 UTC] PHP Notice:  Undefined index: datos_paypal in /home/digout/public_html/cyc/admin/pedidos.php on line 54
+[13-Oct-2021 14:06:28 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:07:15 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:07:26 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:07:26 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 84
+[13-Oct-2021 14:07:28 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:07:28 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 84
+[13-Oct-2021 14:07:28 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:07:28 UTC] PHP Notice:  Undefined index: id_usuario in /home/digout/public_html/cyc/admin/pedidos.php on line 84
+[13-Oct-2021 14:08:39 UTC] PHP Notice:  Undefined index: fecha in /home/digout/public_html/cyc/admin/pedidos.php on line 53
+[13-Oct-2021 14:08:39 UTC] PHP Notice:  Undefined index: id_pedido in /home/digout/public_html/cyc/admin/pedidos.php on line 85
+[13-Oct-2021 14:08:41 UTC] PHP Notice:  Undefined index: fecha in /home/digout/public_html/cyc/admin/pedidos.php on line 53
+[13-Oct-2021 14:08:41 UTC] PHP Notice:  Undefined index: id_pedido in /home/digout/public_html/cyc/admin/pedidos.php on line 85
+[13-Oct-2021 14:08:41 UTC] PHP Notice:  Undefined index: fecha in /home/digout/public_html/cyc/admin/pedidos.php on line 53
+[13-Oct-2021 14:08:41 UTC] PHP Notice:  Undefined index: id_pedido in /home/digout/public_html/cyc/admin/pedidos.php on line 85
+[13-Oct-2021 14:08:42 UTC] PHP Notice:  Undefined index: fecha in /home/digout/public_html/cyc/admin/pedidos.php on line 53
+[13-Oct-2021 14:08:42 UTC] PHP Notice:  Undefined index: id_pedido in /home/digout/public_html/cyc/admin/pedidos.php on line 85
+[13-Oct-2021 14:08:55 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/pedidos.php on line 53
+[13-Oct-2021 14:08:55 UTC] PHP Notice:  Undefined index: id_pedido in /home/digout/public_html/cyc/admin/pedidos.php on line 85
+[13-Oct-2021 14:08:56 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/pedidos.php on line 53
+[13-Oct-2021 14:08:56 UTC] PHP Notice:  Undefined index: id_pedido in /home/digout/public_html/cyc/admin/pedidos.php on line 85
+[13-Oct-2021 14:09:18 UTC] PHP Notice:  Array to string conversion in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:10:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:10:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:10:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:13:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 43
+[13-Oct-2021 14:13:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:13:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 45
+[13-Oct-2021 14:14:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 44
+[13-Oct-2021 15:26:06 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:06 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:06 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:06 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:06 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:06 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:32 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:32 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:32 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:32 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:32 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:32 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:46 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:56 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:26:58 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:07 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:08 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:16 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:27:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:25 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:25 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:25 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:25 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:25 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:27:25 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 145
+[13-Oct-2021 15:28:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:28:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:28:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:28:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:28:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:28:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/digout/public_html/cyc/admin/pedidos.php on line 142
+[13-Oct-2021 15:30:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/digout/public_html/cyc/admin/pedidos.php on line 136
+[13-Oct-2021 15:35:19 UTC] PHP Notice:  Undefined variable: subtota in /home/digout/public_html/cyc/admin/pedidos.php on line 165
+[13-Oct-2021 15:35:21 UTC] PHP Notice:  Undefined variable: subtota in /home/digout/public_html/cyc/admin/pedidos.php on line 165
+[13-Oct-2021 15:35:52 UTC] PHP Notice:  Undefined variable: subtota in /home/digout/public_html/cyc/admin/pedidos.php on line 161
+[13-Oct-2021 15:35:53 UTC] PHP Notice:  Undefined variable: subtota in /home/digout/public_html/cyc/admin/pedidos.php on line 161
+[13-Oct-2021 16:30:09 UTC] PHP Notice:  Undefined index: direccion_envio in /home/digout/public_html/cyc/admin/pedidos.php on line 98
